@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Graph3</label>
+	</settings>
+	<users>
+		<user>
+			<path>Graph3.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Graph3.jcp</path>
+		</project>
+	</projects>
+</workspace>

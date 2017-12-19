@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Graph3</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Graph3</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<folderitem>
+				<path>src\ics202</path>
+			</folderitem>
+			<folderitem>
+				<path>src\ics202\project</path>
+			</folderitem>
+			<folderitem>
+				<path>src\ics202\project\edges</path>
+			</folderitem>
+			<folderitem>
+				<path>src\ics202\project\exceptions</path>
+			</folderitem>
+			<folderitem>
+				<path>src\ics202\project\graph</path>
+			</folderitem>
+			<folderitem>
+				<path>src\ics202\project\tests</path>
+			</folderitem>
+			<folderitem>
+				<path>src\ics202\project\traversals</path>
+			</folderitem>
+			<folderitem>
+				<path>src\ics202\project\util</path>
+			</folderitem>
+			<folderitem>
+				<path>src\ics202\project\vertices</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\Graph3.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>
